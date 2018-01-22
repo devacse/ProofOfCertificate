@@ -2,8 +2,12 @@
   "name": "proof-of-certificates",
   "version": "1.0.0",
   "description": "Blockchain Anti-Falsification Solution for Academic Diplomas and Certificates",
-  "main": "index.js",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,6 +29,6 @@
     "truffle": "^4.0.5"
   },
   "devDependencies": {
-    "light-server": "^2.2.1"
+    "lite-server": "^2.3.0"
   }
 }
