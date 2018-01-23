@@ -17,9 +17,14 @@ Blockchain Anti-Falsification Solution for Academic Diplomas and Certificates
 
   ### Run 
    $ git clone https://github.com/samueldinesh/ProofOfCertificate/
+   
    $ cd ProofOfCertificate/
+   
    $ npm install
+   
    $ testrpc (Open a new terminal and run)
+   
    $ truffle migrate
+   
    $ npm run dev
  
