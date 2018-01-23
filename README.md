@@ -16,10 +16,10 @@ Blockchain Anti-Falsification Solution for Academic Diplomas and Certificates
    3. install truffle "npm install -g truffle@4.0.5"
 
   ### Run 
-  1. $git clone https://github.com/samueldinesh/ProofOfCertificate/
-  2. $cd ProofOfCertificate/
-  3. $npm install
-  4. $testrpc in another terminal
-  5. $truffle migrate
-  6. $npm run dev
+   $ git clone https://github.com/samueldinesh/ProofOfCertificate/
+   $ cd ProofOfCertificate/
+   $ npm install
+   $ testrpc (Open a new terminal and run)
+   $ truffle migrate
+   $ npm run dev
  
